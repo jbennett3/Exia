@@ -1,6 +1,6 @@
 #include<iostream>
 #include<thread>
-#include"Data_entry.h"
+#include"Image_db.h"
 using namespace std;
 
 int main()
